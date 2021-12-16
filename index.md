@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <! - Las 3 metaetiquetas anteriores * deben * colocarse primero, y cualquier otro contenido * debe * seguirlo. ->
-         <title> Feliz año nuevo </title>
+         <title> Te amo cariño (de alejandro para andrea) </title>
  
     <!-- Bootstrap -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -78,33 +78,4 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bootstrap/js/bootstrap.min.js"></script>
   </body>
-</html>
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
-<meta name="renderer" content="webkit">
-<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<title>jwplayer</title>
-<meta content="" name="Keywords">
-<meta content="" name="Description">
-<meta name="format-detection" content="telephone=no">
-</head>
-<body>
- 
-<div id="mediaplayer"></div> 
- 
-<script src="jwplayer/jwplayer.js"></script>
-<script type="text/javascript">
-jwplayer('mediaplayer').setup({
-    'flashplayer': 'jwplayer/jwplayer.flash.swf',
-	'image': 'image.jpg',
-    'id': 'playerID',
-    'width': '100%',
-	'aspectratio':'16:9',
-    'file': 'video.mp4'
-  });
-</script>
-</body>
 </html>
